@@ -11,6 +11,10 @@ The primary goal of this project is to extract valuable insights from customer r
 - Aspect Analysis: Identifying key aspects of the car mentioned in reviews, such as performance, comfort, features, etc.
 - Common Complaints: Determining the most frequently cited complaints and areas for improvement.
 - Recommendations: Providing specific recommendations to Maruti Suzuki to address common complaints and enhance the Maruti Brezza's appeal in the market.
+- Dashboard
+
+  ![Screenshot 2024-03-25 021726](https://github.com/Sniperex/MARUTI_BREZZA_REVIEW_ANALYSIS/assets/52499633/dde57770-4ad4-4ee4-9038-02959df33c6a)
+
 
 ## Contributors
 

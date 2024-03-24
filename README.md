@@ -12,8 +12,10 @@ The primary goal of this project is to extract valuable insights from customer r
 - Common Complaints: Determining the most frequently cited complaints and areas for improvement.
 - Recommendations: Providing specific recommendations to Maruti Suzuki to address common complaints and enhance the Maruti Brezza's appeal in the market.
 
-## Contribution
-Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
+## Contributors
+
+- [Kashish Kumar Singh](https://github.com/Sniperex)
 
 ## License
-This project is licensed under the [insert license here] license.
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
